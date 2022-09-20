@@ -17,7 +17,7 @@ Una *página web* es un documento accesible desde cualquier navegador con acceso
 
 Es una aplicación (en local o en línea) que permite editar un texto, hoja de cálculo, una presentación.
 
-5. [Herramientas de Google:](URL "https://www.google.com/intl/es-419/chrome/browser-tools/")
+5. [Herramientas de Google:](https://www.google.com/intl/es-419/chrome/browser-tools/)
 
 |Aplicaciones    |Visto | 
 |------------    |----- |
