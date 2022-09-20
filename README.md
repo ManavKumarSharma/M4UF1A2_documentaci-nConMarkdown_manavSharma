@@ -28,7 +28,7 @@ Es una aplicación (en local o en línea) que permite editar un texto, hoja de c
 |Google Meet     |:computer:|
 |...             |  ...|
 
-6. ¿Qué es un HTML?
+6. ¿Qué es un ``HTML``?
 
 Es un lenguaje de marcas. Es el lenguaje estandard para crear sitios web.
 
